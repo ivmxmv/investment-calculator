@@ -1,0 +1,33 @@
+.box {
+    height: 45px;
+    width: 100%;
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+
+}
+.box p{
+    height: 25px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.item{
+    color: #322153;
+    text-decoration: none;
+}
+
+.active{
+    color: white;
+    text-decoration: none;
+}
+
+.active div{
+    background-color:
+            #322153
+}
+
+.item div{
+    background-color: #84bd5a
+}
